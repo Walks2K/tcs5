@@ -199,6 +199,7 @@
 							<widget class="label" auto_size="vertical" style="semi_bold">
 								<record id="object_property" get_property="NYRt" name="true"/>
 							</widget>
+							
 							<widget class="value_based_picture" image_alignment="left" auto_size="vertical">
 								<list id="value_list">
 									<record min_value="1" max_value="19" file="icons/custom/role rating/stars/11"/>
@@ -243,7 +244,7 @@
 							<attachment_group class="vertical_arrange_autosize"/>
 
 							<widget class="label" auto_size="vertical" style="semi_bold">
-								<translation id="text" translation_id="255008" type="use"/>
+								<translation id="text" translation_id="295874" type="use"/>
 							</widget>
 							<widget class="languages_text" auto_size="vertical" alignment="left" show_fluency="false">
 								<record id="object_property" get_property="Nlan*"/>
