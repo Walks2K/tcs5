@@ -298,7 +298,7 @@
 					default_focus="true" />
 
 				<!-- version label-->
-				<widget class="text" value="WTCS Gold v1.3.1 - Walks2K Edit" auto_size="all"
+				<widget class="text" value="WTCS Gold v1.4 - Walks2K Edit" auto_size="all"
 					colour="fg alpha" size="small">
 					<layout class="stick_to_sides_attachment" alignment="left,bottom" inset="49,30" />
 				</widget>
