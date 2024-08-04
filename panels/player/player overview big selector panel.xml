@@ -41,7 +41,7 @@
 	</widget>
 
 	<!-- PLAYER GAMES IN POSITION -->
-	<widget class="player_games_in_position_panel" id="pgpp" file="player/tcs/selector/games in pos">
+	<widget class="person_information_panel" id="pgpp" file="player/tcs/selector/games in pos">
 		<translation id="title" translation_id="257322" type="use"/>
 	</widget>
 
@@ -83,7 +83,7 @@
 	<widget file="player/tcs/selector/big/reports" class="client_object_viewer_xml_panel" id="repo" late_loading="true">
 		<translation id="title" translation_id="254774" type="use"/>
 	</widget>
-
+    
 	<!-- REPORTS ALT 
 	<widget file="player/tcs/selector/big/reports alt" class="client_object_viewer_xml_panel" id="repA" late_loading="true">
 		<translation id="title" value="Reports (Alt)" type="use"/>
